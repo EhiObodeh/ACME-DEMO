@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MPL-2.0
 
 terraform {
-
+/*
   cloud {
     organization = "ACME-HCP"
 
@@ -10,7 +10,7 @@ terraform {
       name = "Demo"
     }
   }
-
+*/
   required_providers {
     aws = {
       source  = "hashicorp/aws"
