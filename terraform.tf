@@ -7,7 +7,7 @@ terraform {
     organization = "ACME-HCP"
 
     workspaces {
-      name = "Pacific-NA"
+      name = "Demo"
     }
   }
 
