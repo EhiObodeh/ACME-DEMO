@@ -4,7 +4,7 @@
 terraform {
 
   cloud {
-    organization = "ACME-DEMO"
+    organization = "ACME-HCP"
 
     workspaces {
       name = "Pacific-NA"
